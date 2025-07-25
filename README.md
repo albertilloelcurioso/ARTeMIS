@@ -13,4 +13,3 @@ This repository contains synthetic data generated to evaluate the generalization
 - `test_steps_trian`: Training for test steps
 
 All examples were validated by QA professionals. This resource supports reproducibility and further research in test case rewriting using LLMs and agent-based architectures.
-
